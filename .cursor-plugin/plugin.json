@@ -1,0 +1,15 @@
+{
+    "name": "shipgenius",
+    "displayName": "ShipGenius",
+    "version": "1.0.0",
+    "description": "Work in your ShipGenius account from Cursor: ask about shipments, orders, items and inventory, track packages, rate shop across carriers, and buy and void labels.",
+    "author": {
+        "name": "ShipGenius LLC",
+        "email": "info@shipgeni.us"
+    },
+    "homepage": "https://shipgeni.us",
+    "repository": "https://github.com/ShipGenius/cursor-plugin",
+    "license": "MIT",
+    "keywords": ["shipping", "labels", "orders", "inventory", "rate-shopping", "logistics", "ecommerce"],
+    "logo": "assets/logo.png"
+}

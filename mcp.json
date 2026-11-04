@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "api": {
+            "url": "https://api.lite.shipgeni.us/mcp"
+        }
+    }
+}
